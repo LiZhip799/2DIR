@@ -1,0 +1,11 @@
+torch>=2.0.0
+timm>=0.9.0
+transformers
+numpy
+pandas
+Pillow
+tqdm
+biopython
+MDAnalysis
+matplotlib
+scipy
