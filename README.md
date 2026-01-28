@@ -1,8 +1,9 @@
 # Deep learning of protein structure and physicochemical properties from two-dimensional infrared spectra
 This repository provides a computational framework to infer protein structural representations and physicochemical properties directly from two-dimensional infrared (2D IR) spectra. The framework utilizes a MaxViT-based architecture to process 631,651 computed spectra from static structures and molecular dynamics (MD) trajectories.
 
-The complete dataset link is: this link(https://yourlab.github.io/project)```
-.
+The complete dataset link is: this link(https://zenodo.org/records/18365565)
+
+![Alt text](figure/figure1.png)
 
 # Getting started
 ```
