@@ -20,6 +20,5 @@ pip install -r ./install/requirements.txt
 # Train physicochemical property prediction
 ```
 python -m torch.distributed.run --nproc_per_node=GPU_COUNT train_props.py
-InferenceBash# Generate predictions using best models
 python inference.py
 ```
